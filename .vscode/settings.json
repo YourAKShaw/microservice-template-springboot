@@ -1,6 +1,8 @@
 {
   "conventionalCommits.scopes": [
     "README",
-    "vscode"
-  ]
+    "vscode",
+    "repo"
+  ],
+  "java.compile.nullAnalysis.mode": "automatic"
 }
