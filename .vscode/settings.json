@@ -3,7 +3,8 @@
     "README",
     "vscode",
     "repo",
-    "server"
+    "server",
+    "sample"
   ],
   "java.compile.nullAnalysis.mode": "automatic"
 }
