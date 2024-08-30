@@ -4,7 +4,8 @@
     "vscode",
     "repo",
     "server",
-    "sample"
+    "sample",
+    "pom"
   ],
   "java.compile.nullAnalysis.mode": "automatic"
 }
