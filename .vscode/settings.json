@@ -5,7 +5,10 @@
     "repo",
     "server",
     "sample",
-    "pom"
+    "pom",
+    "app-props",
+    "git",
+    "env"
   ],
   "java.compile.nullAnalysis.mode": "automatic"
 }
