@@ -17,7 +17,7 @@ public class SampleApplication {
     }
 
     @Bean
-    public RouterFunction<ServerResponse> helloWorldRoute() {
+    RouterFunction<ServerResponse> helloWorldRoute() {
         return route(GET("/"), request -> ServerResponse.ok().bodyValue("Hello World!"));
     }
 }
